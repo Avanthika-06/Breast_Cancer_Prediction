@@ -1,4 +1,4 @@
-Breast Cancer Prediction Using Ultrasound Imaging
+Breast Cancer Prediction Using Ultrasound Imaging: 
 This project focuses on building a robust deep learning model to classify breast cancer using ultrasound images from the BUSI Dataset. The goal is to distinguish between benign, malignant, and normal tissue using convolutional neural networks (CNNs) and transfer learning strategies.
 
 📌 Objectives
